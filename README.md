@@ -1,1 +1,2 @@
-glory1
+my first readme
+this is an update
